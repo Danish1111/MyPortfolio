@@ -7,7 +7,7 @@ This app is designed to [your description goes here].
 
 <div align="center">
   <img src="gif1.gif" width="250" height="400" alt="App GIF 1" style="padding: 30px;">
-  <img src="gif1.gif" width="250" height="400" alt="App GIF 2" style="padding: 30px;">
+  <img src="gif2.gif" width="250" height="400" alt="App GIF 2" style="padding: 30px;">
   <img src="gif1.gif" width="250" height="400" alt="App GIF 3" style="padding: 30px;">
 </div>
 
