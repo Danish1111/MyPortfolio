@@ -16,8 +16,10 @@ This Smart Farming app, with over 10,000 users, is no longer available on the Pl
 </div>
 
 ### Technologies Used:
-- Technology 1
-- Technology 2
-- Technology 3
-- Technology 4
-- Technology 5
+- Swift 5
+- MVVM
+- Core Animation
+- Core Data
+- AVFoundation
+- MapKit
+  
