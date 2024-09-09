@@ -35,15 +35,15 @@ This Smart Farming app, built in Swift 5 from Figma designs, served over 10,000 
 I developed the iTrade app using Swift 5 with MVVM architecture. This large-scale project enabled buyers and sellers to trade agricultural commodities in bulk based on grade and location. Though no longer on the App Store, it streamlined agricultural trade nationwide.
 
 <div align="center">
-  <img src="https://github.com/Danish1111/MyPortfolio/blob/main/assets/vid1.gif" width="250" height="400" alt="App GIF 1" style="margin-right: 20px; margin-bottom: 20px;">
-  <img src="https://github.com/Danish1111/MyPortfolio/blob/main/assets/vid2.gif" width="250" height="400" alt="App GIF 2" style="margin-right: 20px; margin-bottom: 20px;">
-  <img src="https://github.com/Danish1111/MyPortfolio/blob/main/assets/vid3.gif" width="250" height="400" alt="App GIF 3" style="margin-bottom: 20px;">
+  <img src="https://github.com/Danish1111/MyPortfolio/blob/main/assets/vid6.gif" width="250" height="400" alt="App GIF 1" style="margin-right: 20px; margin-bottom: 20px;">
+  <img src="https://github.com/Danish1111/MyPortfolio/blob/main/assets/vid5.gif" width="250" height="400" alt="App GIF 2" style="margin-right: 20px; margin-bottom: 20px;">
+  <img src="https://github.com/Danish1111/MyPortfolio/blob/main/assets/vid4.gif" width="250" height="400" alt="App GIF 3" style="margin-bottom: 20px;">
 </div>
 
 <div align="center">
-  <img src="https://github.com/Danish1111/MyPortfolio/blob/main/assets/vid4.gif" width="250" height="400" alt="App GIF 4" style="margin-right: 20px;">
-  <img src="https://github.com/Danish1111/MyPortfolio/blob/main/assets/vid5.gif" width="250" height="400" alt="App GIF 5" style="margin-right: 20px;">
-  <img src="https://github.com/Danish1111/MyPortfolio/blob/main/assets/vid6.gif" width="250" height="400" alt="App GIF 6">
+  <img src="https://github.com/Danish1111/MyPortfolio/blob/main/assets/vid3.gif" width="250" height="400" alt="App GIF 4" style="margin-right: 20px;">
+  <img src="https://github.com/Danish1111/MyPortfolio/blob/main/assets/vid2.gif" width="250" height="400" alt="App GIF 5" style="margin-right: 20px;">
+  <img src="https://github.com/Danish1111/MyPortfolio/blob/main/assets/vid1.gif" width="250" height="400" alt="App GIF 6">
 </div>
 
 ### Technologies Used:
