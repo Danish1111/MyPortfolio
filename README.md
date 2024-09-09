@@ -1,7 +1,7 @@
 ## <span style="color:blue">Upaj - Kisan ka Super App (iOS)</span>
 
 **App Description:**
-This Smart Farming app, with over 10,000 users, is no longer available on the Play Store. Developed from scratch in Swift 5 based on Figma designs, it offered precise crop advice, real-time weather updates, expert insights, satellite mapping, and crop insurance. The app was designed to enhance farmers' decision-making and productivity
+This Smart Farming app, built in Swift 5 from Figma designs, served over 10,000 users with crop advice, weather updates, expert insights, satellite mapping, and crop insurance. Featuring Mahendra Singh Dhoni as the brand ambassador, the app was a significant project that earned me an award. It is no longer available on the Play Store.
 
 <div align="center">
   <img src="https://github.com/Danish1111/MyPortfolio/blob/main/assets/gif1.gif" width="250" height="400" alt="App GIF 1" style="margin-right: 20px; margin-bottom: 20px;">
