@@ -6,8 +6,8 @@ This app is designed to [your description goes here].
 ### Screenshots / GIFs:
 
 <div align="center">
-  <img src="gif1.gif" width="250" height="400" alt="App GIF 1" style="margin-right: 20px; margin-bottom: 20px;">
-  <img src="gif2.gif" width="250" height="400" alt="App GIF 2" style="margin-right: 20px; margin-bottom: 20px;">
+  <img src="https://github.com/Danish1111/MyPortfolio/blob/main/assets/gif1.gif" width="250" height="400" alt="App GIF 1" style="margin-right: 20px; margin-bottom: 20px;">
+  <img src="[gif2.gif](https://github.com/Danish1111/MyPortfolio/blob/main/assets/gif2.gif)" width="250" height="400" alt="App GIF 2" style="margin-right: 20px; margin-bottom: 20px;">
   <img src="gif3.gif" width="250" height="400" alt="App GIF 3" style="margin-bottom: 20px;">
 </div>
 
