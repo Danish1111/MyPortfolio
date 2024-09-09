@@ -1,3 +1,3 @@
-# MyPortfolio
+## Project Demo
 
-![Watch the demo](gif1.gif)
+<img src="gif1" width="400" height="300" alt="Watch the demo">
